@@ -1,5 +1,19 @@
 # @shopify/theme
 
+## 3.46.0-pre.2
+
+### Minor Changes
+
+- 151684a25: - Improve rule for lazy loading to prevent developers from overusing it
+  - Introduce `--update-docs` flag to synchronously update Theme Check resources (objects, filters, and tags)
+
+### Patch Changes
+
+- 9e06083e4: Fix localhost link in the `shopify theme dev` command
+- Updated dependencies [151684a25]
+- Updated dependencies [01988114d]
+  - @shopify/cli-kit@3.46.0-pre.2
+
 ## 3.46.0-pre.1
 
 ### Patch Changes

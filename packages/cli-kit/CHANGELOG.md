@@ -1,5 +1,13 @@
 # @shopify/cli-kit
 
+## 3.46.0-pre.2
+
+### Minor Changes
+
+- 151684a25: - Improve rule for lazy loading to prevent developers from overusing it
+  - Introduce `--update-docs` flag to synchronously update Theme Check resources (objects, filters, and tags)
+- 01988114d: Add support for Google Cloud Shell
+
 ## 3.46.0-pre.1
 
 ### Minor Changes

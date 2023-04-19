@@ -1,5 +1,15 @@
 # @shopify/app
 
+## 3.46.0-pre.2
+
+### Patch Changes
+
+- Updated dependencies [151684a25]
+- Updated dependencies [01988114d]
+  - @shopify/cli-kit@3.46.0-pre.2
+  - @shopify/plugin-cloudflare@3.46.0-pre.2
+  - @shopify/plugin-ngrok@3.46.0-pre.2
+
 ## 3.46.0-pre.1
 
 ### Patch Changes
