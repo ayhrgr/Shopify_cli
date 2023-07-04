@@ -1,5 +1,20 @@
 # @shopify/cli
 
+## 3.48.0-pre.0
+
+### Minor Changes
+
+- a17e43672: Implement Unified Deployments
+
+### Patch Changes
+
+- Updated dependencies [91e7a1fd8]
+- Updated dependencies [6a1b88228]
+- Updated dependencies [f0adf0651]
+- Updated dependencies [a17e43672]
+  - @shopify/cli-kit@3.48.0-pre.0
+  - @shopify/plugin-did-you-mean@3.48.0-pre.0
+
 ## 3.47.0
 
 ### Minor Changes

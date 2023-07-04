@@ -1,5 +1,17 @@
 # @shopify/cli-kit
 
+## 3.48.0-pre.0
+
+### Minor Changes
+
+- 91e7a1fd8: output: pass logLevel to Logger
+- a17e43672: Implement Unified Deployments
+
+### Patch Changes
+
+- 6a1b88228: Improve error message on non-tty when prompting for a key press
+- f0adf0651: Improve Cloudflare errors
+
 ## 3.47.0
 
 ### Minor Changes
