@@ -1,5 +1,23 @@
 # @shopify/theme
 
+## 3.49.0
+
+### Minor Changes
+
+- 330dddeaa: Introduce support for the `shopify theme console` command
+
+### Patch Changes
+
+- 8d3578b87: Fix internal server error issue in the `shopify theme dev` command
+- Updated dependencies [b2e93d9c3]
+- Updated dependencies [f1a774c78]
+- Updated dependencies [1914affaf]
+- Updated dependencies [8d3578b87]
+- Updated dependencies [b4c9439c4]
+- Updated dependencies [d230b8773]
+- Updated dependencies [3c88932af]
+  - @shopify/cli-kit@3.49.0
+
 ## 3.48.0
 
 ### Minor Changes
